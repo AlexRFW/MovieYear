@@ -8,8 +8,8 @@ To run "MovieYear!", download the source code, open a terminal window in the fol
 
 ## Running the app
 
-![Alt text](/doc/screenshot1.png "View menu, running on iPhone 8")
-![Alt text](/doc/screenshot2.png "Order list, running on iPhone 8")
+![Alt text](/doc/screenshot1.png "Home screen, running on iPhone 8")
+![Alt text](/doc/screenshot2.png "Random question, running on iPhone 8")
 
 This game app let's you guess the year of release of movies from the last decade. In this game, the user can enter his/her name and guess wrong a few times based on the number of lives. When all the movies are done or too many incorrect answers are given, the game finished with a results page to view the score. The user's name and score are sent to the Firebase database and can be viewed when the leaderboard button is pressed. The movie data, including the poster image, are fetched with the tmdb.org API.
 
