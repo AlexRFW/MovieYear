@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-To run "MovieYear!", download the source code, open a terminal window in the folder, and run "pod install". Next, open the create .xcworkspace file with Xcode and run the app on iOS simulator or your own iOS device (it works with all available iOS devices and simulators).
+To run "MovieYear!", download the source code, open a terminal window in the folder, and run "pod install". Next, open the created .xcworkspace file with Xcode and run the app on an iOS simulator or your own iOS device (it works with all available iOS devices and simulators running iOS 11).
 
 ## Running the app
 
